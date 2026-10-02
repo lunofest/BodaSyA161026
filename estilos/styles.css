@@ -403,7 +403,7 @@ main {
 .iglesia__hora {
   text-align: center;
   font-family: var(--font-quicksand);
-  margin: 0 auto;
+  margin: 0 2em 1em 2em;
   font-size: 1rem;
   color: var(--color-subtitulos);
 }
