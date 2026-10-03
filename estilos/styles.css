@@ -94,7 +94,10 @@ main {
   position: relative;
 }
 
-
+body,
+html {
+    overflow-x: hidden;
+}
 
 /* ----------------musica ----------------------- */
 
